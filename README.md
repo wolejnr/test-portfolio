@@ -1,4 +1,7 @@
 # test-portfolio
+
+[About](./about.md) | [Contact](https://wolejnr.github.io)
+
 A collection of my data science projects
 
 ## [Yahoo Finance Project](https://www.google.com/)
