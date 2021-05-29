@@ -1,7 +1,7 @@
 # test-portfolio
 A collection of my data science projects
 
-## [Yahoo Finance Project]("https://www.google.com/")
+## [Yahoo Finance Project](https://www.google.com/)
 This project was executed on behalf of Company ABC Inc. The goal of this project was to scrape data from the Yahoo Finance page,
 wrangle the data so as to be able to perform DataFrame filtering and sorting.
 * **Python** was the language used for the project
@@ -15,7 +15,7 @@ Through this project, the client is able to keep track of active stocks so as to
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
-## [Indeed Scraper]("https://www.google.com/")
+## [Indeed Scraper](https://www.google.com/)
 This project was executed on behalf of Company ABC Inc. The goal of this project was to scrape data from the Yahoo Finance page,
 wrangle the data so as to be able to perform DataFrame filtering and sorting.
 * **Python** was the language used for the project
